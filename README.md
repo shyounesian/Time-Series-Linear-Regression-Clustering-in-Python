@@ -9,3 +9,7 @@
 # Data 
 
 #### [Here](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset?select=Global_Superstore2.csv) you can find the project dataset. 
+
+# Project Visualization 
+
+#### [Here](https://public.tableau.com/app/profile/shirin3755/viz/6_7CreatingDataDashboards_16826022986800/Story1?publish=yes) you can find the project visualization in Tableau.
